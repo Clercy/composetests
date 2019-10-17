@@ -1,1 +1,2 @@
 # composetests
+Testing the build.
